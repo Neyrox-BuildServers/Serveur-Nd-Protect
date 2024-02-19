@@ -2,4 +2,4 @@
 
 Voici le template du serveur **ND-PROTECT** : https://discord.new/TAephqxVRSty
 
-Collaborateur : Hayrox and Kira
+Collaborateur : >! Hayrox
